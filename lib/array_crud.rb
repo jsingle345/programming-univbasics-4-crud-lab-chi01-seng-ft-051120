@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   fruit = ["apple", "pear", "orange", "grapes"]
-  fruit << "plum"
+  fruit.push("plum")
 end
 
 def add_element_to_start_of_array(array, element)
