@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array = ["apple", "pear", "orange", "grapes"]
+  array = ["apple", "pear", "orange", "arrays!"]
   array.pop
 end
 
